@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
 
-android:background="@color/bg_login"
+    android:background="@color/bg_login"
     >
 
 
@@ -73,6 +73,17 @@ android:background="@color/bg_login"
             android:layout_marginTop="40dip"
             android:background="@color/btn_logout_bg"
             android:text="My Locations"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/now5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dip"
+            android:background="@color/btn_logout_bg"
+            android:text="Payment"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="15dp" />

@@ -15,6 +15,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
+        <activity android:name=".activity.payment"></activity>
+        <activity android:name=".activity.mylocation" />
         <activity android:name=".activity.webmodule" />
         <activity
             android:name=".activity.LoginActivity"
