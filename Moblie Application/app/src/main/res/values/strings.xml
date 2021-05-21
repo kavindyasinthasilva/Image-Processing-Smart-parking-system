@@ -11,4 +11,7 @@
     <string name="welcome">Welcome to SSRNPK</string>
     <string name="btn_logout">LOGOUT</string>
     <string name="name">Fullname</string>
+    <string name="MAPS_API_KEY">Fullname</string>
+
+
 </resources>

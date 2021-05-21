@@ -90,7 +90,7 @@ public class mylocation extends AppCompatActivity {
         String name = user.get("name");
 
 
-        String link = "https://smartparkingq.azurewebsites.net/mymap/admin-map.php?username="+name;
+        String link = "https://smartparkingsystemnsbm.azurewebsites.net/mymap/admin-map.php?username="+name;
 
         web = (WebView) findViewById(R.id.webView);
         web.setWebViewClient(new myWebClient());

@@ -47,12 +47,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Location"
+android:textAlignment="center"
+            android:textColor="@color/btn_login"
             android:textSize="20sp" />
 
         <TextView
             android:id="@+id/email"
             android:layout_width="228dp"
             android:layout_height="wrap_content"
+            android:textColor="@color/bg_login"
+
+            android:textAlignment="center"
             android:textSize="13dp" />
 
         <Button

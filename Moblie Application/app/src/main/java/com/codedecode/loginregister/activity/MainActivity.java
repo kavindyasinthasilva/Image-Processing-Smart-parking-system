@@ -1,17 +1,28 @@
 package com.codedecode.loginregister.activity;
 
+import android.Manifest;
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.location.Location;
+import android.location.LocationManager;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+import android.provider.Settings;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 import android.widget.VideoView;
+
+import androidx.core.app.ActivityCompat;
 
 import com.codedecode.loginregister.R;
 import com.codedecode.loginregister.helper.SQLiteHandler;
@@ -23,6 +34,13 @@ public class MainActivity extends Activity {
     private VideoView mVideoView;
     private SQLiteHandler db;
     private SessionManager session;
+
+
+    private static final int REQUEST_LOCATION = 1;
+    Button btnGetLocation;
+    TextView showLocation;
+    LocationManager locationManager;
+    String latitude, longitude;
 
 
 
@@ -114,13 +132,13 @@ public class MainActivity extends Activity {
         });
     }
 
-    /**
-     * Logging out the user. Will set isLoggedIn flag to false in shared
-     * preferences Clears the user data from sqlite users table
-     * */
+
+
     private void logoutUser() {
 
+        session.setLogin(false);
 
+        db.deleteUsers();
         // Launching the login activity
         Intent intent = new Intent(MainActivity.this, LoginActivity.class);
         startActivity(intent);

@@ -79,7 +79,7 @@ public class webmodule extends AppCompatActivity {
         web = (WebView) findViewById(R.id.webView);
         web.setWebViewClient(new myWebClient());
         web.getSettings().setJavaScriptEnabled(true);
-        web.loadUrl("https://smartparkingq.azurewebsites.net/map/admin-map.php");
+        web.loadUrl("https://smartparkingsystemnsbm.azurewebsites.net/map/admin-map.php");
 
 
 
