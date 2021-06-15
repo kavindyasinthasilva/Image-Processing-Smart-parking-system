@@ -46,9 +46,9 @@
 
 # Screenshots
 
-![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(339).png)
+![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(23).png)
 
-![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(338).png)
+![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Untitled-1.png)
 
 ![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(340).png)
 
