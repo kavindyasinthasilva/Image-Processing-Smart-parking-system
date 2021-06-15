@@ -64,7 +64,7 @@
 
 ![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/sfdg.png)
 
-![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(33).png)
+![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/dgfhglkl.png)
 
 
 
