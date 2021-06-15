@@ -86,7 +86,7 @@
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://www.kavinduyasintha.tech/" target="_blank">`kavinduyasintha.tech`</a>
+- Website at <a href="http://www.kavinduyasintha.tech/" target="_blank">`kavinduyasintha.info`</a>
 - Twitter at <a href="" target="_blank">`@KYsilva</a>
 - Insert more social links here.
 
