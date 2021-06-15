@@ -31,7 +31,7 @@
     - 🍴 Fork this repo!!!!!!!!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/kavindyasinthasilva/S-Music.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system.git`
 
 ### Step 2
 
@@ -39,7 +39,7 @@
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/kavindyasinthasilva/S-Music.git" target="_blank">`Pull request`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system.git" target="_blank">`Pull request`</a>.
 
 ---
 
@@ -50,7 +50,7 @@
 
 ![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Untitled-1.png)
 
-![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(340).png)
+![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(24).png)
 
 ![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(342).png)
 
@@ -92,7 +92,7 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license]()**
-- Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
+- Copyright 2020 © <a href="http://kavinduyasintha.info" target="_blank">kavinduyasintha</a>.
 
 Thank you
 
