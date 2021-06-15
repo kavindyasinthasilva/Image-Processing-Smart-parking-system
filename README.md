@@ -4,6 +4,14 @@
 ![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(20).png)
 
 
+#### 1. Identify Number Plate Using Image Processing.
+#### 2. Payment Use QR code.
+#### 3. Google Map using Creat praking Oders .
+#### 4. mobile and desktop application.
+#### 5. automatic count time .
+#### 6. generate unic QR code 
+
+
 
 
 ---
@@ -50,9 +58,9 @@
 
 ![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Untitled-1.png)
 
-![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(24).png)
+![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(31).png)
 
-![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(342).png)
+![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(32).png)
 
 ![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(343).png)
 
