@@ -1,4 +1,4 @@
-# Image-Processing-Smart-parking-system ✨'(IOT) - sky silva
+# Image-Processing-Smart-parking-system ✨'(IOT) - sky silva(Kavindu Yasintha Silva)
 
 
 ![Image](https://github.com/kavindyasinthasilva/Image-Processing-Smart-parking-system/blob/main/image/Screenshot%20(20).png)
